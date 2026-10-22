@@ -1,0 +1,14 @@
+# build output
+bin/
+obj/
+
+# game event journals
+*.log
+
+# IDE / OS
+.idea/
+.vs/
+.vscode/
+*.user
+*.DotSettings.user
+.DS_Store
